@@ -51,6 +51,10 @@
 </div>
 </p>        
 
+<!-- GitHub Trophies -->
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=erikvalencia&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&title=Commit,PullRequest,Issue,Repositories,Followers,Stars,Organizations)](https://github.com/erikvalencia/github-profile-trophy)
+</div>
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
