@@ -8,9 +8,12 @@
   </ul>
 </div>
 
-<!--- snake animation -->
+<!--- Profile Picture -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://github.com/EEEEERIKO/EEEEERIKO/blob/main/eriko_picture.jpeg" 
+       alt="Erik Valencia" 
+       width="300" 
+       style="border-radius:15px; object-fit: cover;" />
 </div>
 
 <!--h2 without bottom border-->
