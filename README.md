@@ -44,17 +44,10 @@
 </tr>
 </table>
 
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=eeeeeriko&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
+
 </p>        
 
-<!-- GitHub Trophies -->
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=erikvalencia&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&title=Commit,PullRequest,Issue,Repositories,Followers,Stars,Organizations)](https://github.com/erikvalencia/github-profile-trophy)
-</div>
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
