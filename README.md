@@ -32,7 +32,7 @@
 - 🏠 Let’s work together! LinkedIn: **(https://www.linkedin.com/in/erikodev)**  
 <!--Intro end-->
 
-<!--- stats & Trophy -->
+<!--- stats & Trophy 
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -48,7 +48,7 @@
 </table>
 
 
-</p>        
+</p>   -->     
 
 
 <!--h2 without bottom border-->
