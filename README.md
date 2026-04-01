@@ -41,10 +41,15 @@
     <summary><h2 style="display: inline-block">Current Focus & Skills</h2></summary>
   </ul>
 </div>
-
+<p align="center">
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="50" alt="SwiftUI"/>
+  <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" height="50" alt="Xcode"/>
+  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" height="50" alt="Swift"/>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,figma,git,github,vscode,html,css,js&perline=8" />
+<img src="https://skillicons.dev/icons?i=apple,git,github,figma,firebase,vscode&perline=7" />
+    
   </a>
 </p>
 
