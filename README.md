@@ -32,7 +32,7 @@
 - 🗣️ Multilingual: **Spanish, English, Portuguese, Catalan**  
 - 🚀 Motivated by challenges, continuous learning, and building meaningful products  
 
-📫 **Contact:** erikvalencia445@gmail.com  
+📫 **Contact:** erikovc.dev@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/erikodev  
 
 <!-- Technologies -->
