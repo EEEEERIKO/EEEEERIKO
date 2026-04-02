@@ -4,14 +4,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Erik Valencia</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Erik Valencia Cardona</h1></summary>
   </ul>
 </div>
 
 <!-- Profile Picture -->
 <div align="center">
   <img src="https://github.com/EEEEERIKO/EEEEERIKO/blob/main/eriko_picture.jpeg" 
-       alt="Erik Valencia" 
+       alt="Erik Valencia Cardona" 
        width="280" 
        style="border-radius:15px; object-fit: cover;" />
 </div>
